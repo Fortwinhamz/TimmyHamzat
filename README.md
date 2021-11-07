@@ -2,8 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on different HTML and CSS projects
-- 📫 How to reach me ...
-Phone: 09078067530
+- 📫 How to reach me ..
 
 <!---
 Fortwinhamz/Fortwinhamz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
